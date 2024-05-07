@@ -5,22 +5,26 @@
 Developing a new feature using Java and a framework like Spring Boot for the backend and potentially a front-end framework like React or Angular.
 </li>
 <li>
-Integrating a new service or API into an existing Java application.<br>Designing and implementing a database schema for a new application.
+Integrating a new service or API into an existing Java application.
+</li>
+<li>
+Designing and implementing a database schema for a new application.
 </li>
 </ul>
-<br><br>
-
+<br>
 👯 I’m looking to collaborate on:
 <ul>
 <li>
 Building a complex web application that requires both front-end and back-end expertise.
 </li>
 <li>
-Implementing a new microservice architecture for a large-scale application.<br>Optimizing the performance of a Java application.
+Implementing a new microservice architecture for a large-scale application.
+</li>
+<li>
+Optimizing the performance of a Java application.
 </li>
 </ul>
-<br><br>
-
+<br>
 🤔 I’m looking for help with:
 <ul>
 <li>
@@ -33,8 +37,7 @@ Choosing the right framework or library for a new project.
 Implementing a new design pattern.
 </li>
 </ul>
-<br><br>
-
+<br>
 🌱 I’m currently learning:
 <ul>
 <li>
@@ -47,8 +50,7 @@ Cloud computing platforms like AWS or Azure.
 DevOps practices for continuous integration and deployment.
 </li>
 </ul>
-<br><br>
-
+<br>
 💬 Ask me about:
 <ul>
 <li>
@@ -58,11 +60,10 @@ Best practices for Java development.
 The latest trends in full-stack development.
 </li>
 <li>
-</li>
 My experience with specific Java frameworks and libraries.
+</li>
 </ul>
-<br><br>
-
+<br>
 ⚡ Fun fact:
 <ul>
 <li>
@@ -70,7 +71,6 @@ Java is not actually named after a cup of coffee, but after the Indonesian islan
 </li>
 </ul>
 <br>
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Discord Invite Code) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Instagram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LinkedIn) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Medium Username) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Printers) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Reddit) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/StackOverflow ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Tiktok) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/X) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@YouTube Channel ID) 
