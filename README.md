@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:
+##🔭 I’m currently working on:
 <ul>
 <li>
 Developing a new feature using Java and a framework like Spring Boot for the backend and potentially a front-end framework like React or Angular.
@@ -12,7 +12,7 @@ Designing and implementing a database schema for a new application.
 </li>
 </ul>
 <br>
-👯 I’m looking to collaborate on:
+##👯 I’m looking to collaborate on:
 <ul>
 <li>
 Building a complex web application that requires both front-end and back-end expertise.
@@ -25,7 +25,7 @@ Optimizing the performance of a Java application.
 </li>
 </ul>
 <br>
-🤔 I’m looking for help with:
+##🤔 I’m looking for help with:
 <ul>
 <li>
 Debugging a complex issue in a Java application.
@@ -38,7 +38,7 @@ Implementing a new design pattern.
 </li>
 </ul>
 <br>
-🌱 I’m currently learning:
+##🌱 I’m currently learning:
 <ul>
 <li>
 A new framework or library like Spring Security or Kafka.
@@ -51,7 +51,7 @@ DevOps practices for continuous integration and deployment.
 </li>
 </ul>
 <br>
-💬 Ask me about:
+##💬 Ask me about:
 <ul>
 <li>
 Best practices for Java development.
@@ -64,7 +64,7 @@ My experience with specific Java frameworks and libraries.
 </li>
 </ul>
 <br>
-⚡ Fun fact:
+##⚡ Fun fact:
 <ul>
 <li>
 Java is not actually named after a cup of coffee, but after the Indonesian island of Java.
