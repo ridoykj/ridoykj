@@ -1,7 +1,20 @@
 # 💫 About Me:
 🔭 I’m currently working on:
-<br>Developing a new feature using Java and a framework like Spring Boot for the backend and potentially a front-end framework like React or Angular.
-<br>Integrating a new service or API into an existing Java application.<br>Designing and implementing a database schema for a new application.
+<ul>
+<li>
+Developing a new feature using Java and a framework like Spring Boot for the backend and potentially a front-end framework like React or Angular.
+</li>
+
+<li>
+Integrating a new service or API into an existing Java application.<br>Designing and implementing a database schema for a new application.
+</li>
+<li>
+</li>
+f
+<li>
+</li>
+</ul>
+
 <br><br>
 👯 I’m looking to collaborate on:
 <br>Building a complex web application that requires both front-end and back-end expertise.
