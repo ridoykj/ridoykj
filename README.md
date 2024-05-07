@@ -1,5 +1,29 @@
 # 💫 About Me:
-Currently Working On:<br>Developing a new feature using Java and a framework like Spring Boot for the backend and potentially a front-end framework like React or Angular.<br>Integrating a new service or API into an existing Java application.<br>Designing and implementing a database schema for a new application.<br><br>Looking to Collaborate On:<br>Building a complex web application that requires both front-end and back-end expertise.<br>Implementing a new microservice architecture for a large-scale application.<br>Optimizing the performance of a Java application.<br><br>Looking for Help With:<br>Debugging a complex issue in a Java application.<br>Choosing the right framework or library for a new project.<br>Implementing a new design pattern.<br><br>Currently Learning:<br>A new framework or library like Spring Security or Kafka.<br>Cloud computing platforms like AWS or Azure.<br>DevOps practices for continuous integration and deployment.<br><br>Ask Me About:<br>Best practices for Java development.<br>The latest trends in full-stack development.<br>My experience with specific Java frameworks and libraries.<br><br>Fun Fact:<br>Java is not actually named after a cup of coffee, but after the Indonesian island of Java.
+🔭 I’m currently working on:
+<br>Developing a new feature using Java and a framework like Spring Boot for the backend and potentially a front-end framework like React or Angular.
+<br>Integrating a new service or API into an existing Java application.<br>Designing and implementing a database schema for a new application.
+<br><br>
+👯 I’m looking to collaborate on:
+<br>Building a complex web application that requires both front-end and back-end expertise.
+<br>Implementing a new microservice architecture for a large-scale application.<br>Optimizing the performance of a Java application.
+<br><br>
+🤔 I’m looking for help with:
+<br>Debugging a complex issue in a Java application.
+<br>Choosing the right framework or library for a new project.
+<br>Implementing a new design pattern.
+<br><br>
+🌱 I’m currently learning:
+<br>A new framework or library like Spring Security or Kafka.
+<br>Cloud computing platforms like AWS or Azure.
+<br>DevOps practices for continuous integration and deployment.
+<br><br>
+💬 Ask me about:
+<br>Best practices for Java development.
+<br>The latest trends in full-stack development.
+<br>My experience with specific Java frameworks and libraries.
+<br><br>
+⚡ Fun fact:
+<br>Java is not actually named after a cup of coffee, but after the Indonesian island of Java.
 
 
 ## 🌐 Socials:
