@@ -1,23 +1,20 @@
 # 💫 About Me:
 #### 🔭 I’m currently working on:
-- Developing a new feature using Java and a framework like Spring Boot for the backend and potentially a front-end framework like React.
-- Integrating a new service or API into an existing Java application.
+- Developing a new feature using Java and a framework like Spring Boot for the backend and potentially a front-end framework like Hilla with React.
 - Designing and implementing a database schema for a new application.
 
 #### 👯 I’m looking to collaborate on:
 - Building a complex web application that requires both front-end and back-end expertise.
 - Implementing a new microservice architecture for a large-scale application.
-- Optimizing the performance of a Java application.
 
 #### 🤔 I’m looking for help with:
-- Debugging a complex issue in a Java application.
 - Choosing the right framework or library for a new project.
 - Implementing a new design pattern.
 
 #### 🌱 I’m currently learning:
-- A new framework or library like Spring Security or Kafka.
+- A new library like OpenCV in Python.
 - Cloud computing platforms like AWS or Azure.
-- DevOps practices for continuous integration and deployment.
+- DevOps practices for CI/CD.
 
 #### 💬 Ask me about:
 - Best practices for Java development.
