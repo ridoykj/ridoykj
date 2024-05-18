@@ -2,25 +2,20 @@
 #### 🔭 I’m currently working on:
 - Developing a new feature using Java and a framework like Spring Boot for the backend and potentially a front-end framework like Hilla with React.
 - Designing and implementing a database schema for a new application.
-
 #### 👯 I’m looking to collaborate on:
 - Building a complex web application that requires both front-end and back-end expertise.
 - Implementing a new microservice architecture for a large-scale application.
-
 #### 🤔 I’m looking for help with:
 - Choosing the right framework or library for a new project.
 - Implementing a new design pattern.
-
 #### 🌱 I’m currently learning:
 - A new library like OpenCV in Python.
 - Cloud computing platforms like AWS or Azure.
 - DevOps practices for CI/CD.
-
 #### 💬 Ask me about:
 - Best practices for Java development.
 - The latest trends in full-stack development.
 - My experience with specific Java frameworks and libraries.
-
 #### ⚡ Fun fact:
 - Java is not actually named after a cup of coffee, but after the Indonesian island of Java.
 
